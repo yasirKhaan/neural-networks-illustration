@@ -1,8 +1,4 @@
-# [NN-SVG](http://alexlenail.me/NN-SVG/)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![status](http://joss.theoj.org/papers/52b511ab107595a805107aa4ad70161d/status.svg)](http://joss.theoj.org/papers/52b511ab107595a805107aa4ad70161d)
-| [Docs](https://github.com/zfrenchee/NN-SVG/wiki) | [Contributing](https://github.com/zfrenchee/NN-SVG/wiki/Contributing)
+# [NN-SVG]
 
 Illustrations of Neural Network architectures are often time-consuming to produce, and machine learning researchers all too often find themselves constructing these diagrams from scratch by hand.
 
