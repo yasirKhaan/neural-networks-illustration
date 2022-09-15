@@ -9,15 +9,3 @@ The tool provides the ability to generate figures of three kinds: classic Fully-
 I hope this tool will save machine learning researchers time, and I hope this software might also serve as a pedagogical tool in some contexts.
 
 <img src="./example.svg">
-
-
-### Citation
-
-> LeNail, (2019). NN-SVG: Publication-Ready Neural Network Architecture Schematics. <br>
-> Journal of Open Source Software, 4(33), 747, https://doi.org/10.21105/joss.00747
-
-### Related
-
-- [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
-- [TensorSpace](https://github.com/tensorspace-team/tensorspace)
-# neural-networks-illustration
